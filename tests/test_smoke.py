@@ -5,4 +5,4 @@
 
 
 def test_import():
-import src.my_third_template_test.core
+    import src.my_third_template_test.core
